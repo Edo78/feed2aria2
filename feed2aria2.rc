@@ -4,4 +4,4 @@
 db='feedlinks.db'
 
 # URI of the RSS feed
-feed='http://showrss.info/user/5146.rss?magnets=true&namespaces=true&name=null&quality=null&re=null'
+feed='http://showrss.info/user/5146.rss?magnets=true&namespaces=true&name=null&quality=hd&re=null'
